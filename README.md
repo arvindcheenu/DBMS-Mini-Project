@@ -1,4 +1,4 @@
-# DBMS-Mini-Project
+# DBMS-Mini-Project | Movie Reccomender System
 A project for building a simple **movie recommender system** using MySQL Server.
 
 
